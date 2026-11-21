@@ -1,0 +1,1 @@
+import{t as r}from"./Header.astro_astro_type_script_index_0_lang.DpSk27Y3.js";import"./hoisted.DhVpxtOe.js";const o=new URLSearchParams(location.search).get("door");r("thank_you_view",o==="buy"||o==="sell"?{door:o}:{});
